@@ -1,0 +1,252 @@
+iso_2,iso_3,continent,country,corporate_tax_rate
+AW,ABW,NO,Aruba,22
+AF,AFG,AS,Afghanistan,20
+AO,AGO,AF,Angola,25
+AI,AIA,NO,Anguilla,0
+AX,ALA,EU,Aland Islands,20
+AL,ALB,EU,Albania,15
+AD,AND,EU,Andorra,10
+AN,ANT,NO,Netherlands Antilles,
+AE,ARE,AS,United Arab Emirates,9
+AR,ARG,SA,Argentina,35
+AM,ARM,AS,Armenia,18
+AS,ASM,OC,American Samoa,34
+AQ,ATA,AN,Antarctica,
+TF,ATF,AN,French Southern Territories,
+AG,ATG,NO,Antigua and Barbuda,25
+AU,AUS,OC,Australia,30
+AT,AUT,EU,Austria,24
+AZ,AZE,AS,Azerbaijan,20
+BI,BDI,AF,Burundi,30
+BE,BEL,EU,Belgium,25
+BJ,BEN,AF,Benin,30
+BQ,BES,NO,"Bonaire, Sint Eustatius and Saba",25.8
+BF,BFA,AF,Burkina Faso,27.5
+BD,BGD,AS,Bangladesh,27.5
+BG,BGR,EU,Bulgaria,10
+BH,BHR,AS,Bahrain,0
+BS,BHS,NO,Bahamas,0
+BA,BIH,EU,Bosnia and Herzegovina,10
+BL,BLM,NO,Saint Barthelemy,0
+BY,BLR,EU,Belarus,20
+BZ,BLZ,NO,Belize,0
+BM,BMU,NO,Bermuda,0
+BO,BOL,SA,Bolivia (Plurinational State of),25
+BR,BRA,SA,Brazil,34
+BB,BRB,NO,Barbados,5.5
+BN,BRN,AS,Brunei Darussalam,18.5
+BT,BTN,AS,Bhutan,25
+BV,BVT,AN,Bouvet Island,
+BW,BWA,AF,Botswana,22
+CF,CAF,AF,Central African Republic,30
+CA,CAN,NO,Canada,26.21
+CC,CCK,AS,Cocos (Keeling) Islands,
+CH,CHE,EU,Switzerland,19.653
+CL,CHL,SA,Chile,27
+CN,CHN,AS,China,25
+CI,CIV,AF,Cote d'Ivoire,25
+CM,CMR,AF,Cameroon,33
+CD,COD,AF,Democratic Republic of the Congo,30
+CG,COG,AF,Congo,28
+CK,COK,OC,Cook Islands,20
+CO,COL,SA,Colombia,35
+KM,COM,AF,Comoros,50
+CV,CPV,AF,Cabo Verde,22.44
+CR,CRI,NO,Costa Rica,30
+CU,CUB,NO,Cuba,35
+CW,CUW,NO,Curacao,22
+CX,CXR,AS,Christmas Island,
+KY,CYM,NO,Cayman Islands,0
+CY,CYP,EU,Cyprus,12.5
+CZ,CZE,EU,Czechia,19
+DE,DEU,EU,Germany,29.941
+DJ,DJI,AF,Djibouti,25
+DM,DMA,NO,Dominica,25
+DK,DNK,EU,Denmark,22
+DO,DOM,NO,Dominican Republic,27
+DZ,DZA,AF,Algeria,26
+EC,ECU,SA,Ecuador,25
+EG,EGY,AF,Egypt,22.5
+ER,ERI,AF,Eritrea,30
+EH,ESH,AF,Western Sahara,
+ES,ESP,EU,Spain,25
+EE,EST,EU,Estonia,20
+ET,ETH,AF,Ethiopia,30
+FI,FIN,EU,Finland,20
+FJ,FJI,OC,Fiji,20
+FK,FLK,SA,Falkland Islands (Malvinas),26
+FR,FRA,EU,France,25.825
+FO,FRO,EU,Faroe Islands,18
+FM,FSM,OC,Micronesia (Federated States of),30
+GA,GAB,AF,Gabon,30
+GB,GBR,EU,United Kingdom of Great Britain and Northern Ireland,25
+GE,GEO,AS,Georgia,15
+GG,GGY,EU,Guernsey,0
+GH,GHA,AF,Ghana,25
+GI,GIB,EU,Gibraltar,12.5
+GN,GIN,AF,Guinea,25
+GP,GLP,NO,Guadeloupe,
+GM,GMB,AF,Gambia,27
+GW,GNB,AF,Guinea-Bissau,25
+GQ,GNQ,AF,Equatorial Guinea,35
+GR,GRC,EU,Greece,22
+GD,GRD,NO,Grenada,28
+GL,GRL,NO,Greenland,26.5
+GT,GTM,NO,Guatemala,25
+GF,GUF,SA,French Guiana,
+GU,GUM,OC,Guam,21
+GY,GUY,SA,Guyana,25
+HK,HKG,AS,"China, Hong Kong Special Administrative Region",16.5
+HM,HMD,AN,Heard Island and McDonald Islands,
+HN,HND,NO,Honduras,30
+HR,HRV,EU,Croatia,18
+HT,HTI,NO,Haiti,30
+HU,HUN,EU,Hungary,9
+ID,IDN,AS,Indonesia,22
+IM,IMN,EU,Isle of Man,0
+IN,IND,AS,India,30
+IO,IOT,AS,British Indian Ocean Territory,
+IE,IRL,EU,Ireland,12.5
+IR,IRN,AS,Iran (Islamic Republic of),25
+IQ,IRQ,AS,Iraq,15
+IS,ISL,EU,Iceland,20
+IL,ISR,AS,Israel,23
+IT,ITA,EU,Italy,27.81
+JM,JAM,NO,Jamaica,25
+JE,JEY,EU,Jersey,0
+JO,JOR,AS,Jordan,20
+JP,JPN,AS,Japan,29.74
+KZ,KAZ,AS,Kazakhstan,20
+KE,KEN,AF,Kenya,30
+KG,KGZ,AS,Kyrgyzstan,10
+KH,KHM,AS,Cambodia,20
+KI,KIR,OC,Kiribati,30
+KN,K,NO,Saint Kitts and Nevis,33
+KR,KOR,AS,Republic of Korea,26.5
+KW,KWT,AS,Kuwait,15
+LA,LAO,AS,Lao People's Democratic Republic,20
+LB,LBN,AS,Lebanon,17
+LR,LBR,AF,Liberia,25
+LY,LBY,AF,Libya,20
+LC,LCA,NO,Saint Lucia,30
+LI,LIE,EU,Liechtenstein,12.5
+LK,LKA,AS,Sri Lanka,30
+LS,LSO,AF,Lesotho,25
+LT,LTU,EU,Lithuania,15
+LU,LUX,EU,Luxembourg,24.94
+LV,LVA,EU,Latvia,20
+MO,MAC,AS,"China, Macao Special Administrative Region",12
+MF,MAF,NO,Saint Martin (French Part),20
+MA,MAR,AF,Morocco,32
+MC,MCO,EU,Monaco,25
+MD,MDA,EU,Republic of Moldova,12
+MG,MDG,AF,Madagascar,20
+MV,MDV,AS,Maldives,15
+MX,MEX,NO,Mexico,30
+MH,MHL,OC,Marshall Islands,
+MK,MKD,EU,The former Yugoslav Republic of Macedonia,10
+ML,MLI,AF,Mali,30
+MT,MLT,EU,Malta,35
+MM,MMR,AS,Myanmar,22
+ME,MNE,EU,Montenegro,15
+MN,MNG,AS,Mongolia,25
+MP,MNP,OC,Northern Mariana Islands,21
+MZ,MOZ,AF,Mozambique,32
+MR,MRT,AF,Mauritania,25
+MS,MSR,NO,Montserrat,30
+MQ,MTQ,NO,Martinique,
+MU,MUS,AF,Mauritius,15
+MW,MWI,AF,Malawi,30
+MY,MYS,AS,Malaysia,24
+YT,MYT,AF,Mayotte,
+,M,AF,Namibia,32
+NC,NCL,OC,New Caledonia,30
+NE,NER,AF,Niger,30
+NF,NFK,OC,Norfolk Island,
+NG,NGA,AF,Nigeria,30
+NI,NIC,NO,Nicaragua,30
+NU,NIU,OC,Niue,30
+NL,NLD,EU,Netherlands,25.8
+NO,NOR,EU,Norway,22
+NP,NPL,AS,Nepal,25
+NR,NRU,OC,Nauru,25
+NZ,NZL,OC,New Zealand,28
+OM,OMN,AS,Oman,15
+PK,PAK,AS,Pakistan,29
+PA,PAN,NO,Panama,25
+PN,PCN,OC,Pitcairn,
+PE,PER,SA,Peru,29.5
+PH,PHL,AS,Philippines,25
+PW,PLW,OC,Palau,
+PG,PNG,OC,Papua New Guinea,30
+PL,POL,EU,Poland,19
+PR,PRI,NO,Puerto Rico,37.5
+KP,PRK,AS,Democratic People's Republic of Korea,
+PT,PRT,EU,Portugal,31.5
+PY,PRY,SA,Paraguay,10
+PS,PSE,AS,State of Palestine,15
+PF,PYF,OC,French Polynesia,25
+QA,QAT,AS,Qatar,10
+RE,REU,AF,Reunion,
+RO,ROU,EU,Romania,16
+RU,RUS,EU,Russian Federation,20
+RW,RWA,AF,Rwanda,30
+SA,SAU,AS,Saudi Arabia,20
+SD,SDN,AF,Sudan,35
+SN,SEN,AF,Senegal,30
+SG,SGP,AS,Singapore,17
+GS,SGS,AN,South Georgia and the South Sandwich Islands,
+SH,SHN,AF,Saint Helena,25
+SJ,SJM,EU,Svalbard and Jan Mayen Islands,
+SB,SLB,OC,Solomon Islands,30
+SL,SLE,AF,Sierra Leone,25
+SV,SLV,NO,El Salvador,30
+SM,SMR,EU,San Marino,17
+SO,SOM,AF,Somalia,
+PM,SPM,NO,Saint Pierre and Miquelon,
+RS,SRB,EU,Serbia,15
+SS,SSD,AF,South Sudan,30
+ST,STP,AF,Sao Tome and Principe,25
+SR,SUR,SA,Suriname,36
+SK,SVK,EU,Slovakia,21
+SI,SVN,EU,Slovenia,19
+SE,SWE,EU,Sweden,20.6
+SZ,SWZ,AF,Swaziland,27.5
+SX,SXM,NO,Sint Maarten (Dutch part),34.5
+SC,SYC,AF,Seychelles,25
+SY,SYR,AS,Syrian Arab Republic,28
+TC,TCA,NO,Turks and Caicos Islands,0
+TD,TCD,AF,Chad,35
+TG,TGO,AF,Togo,27
+TH,THA,AS,Thailand,20
+TJ,TJK,AS,Tajikistan,18
+TK,TKL,OC,Tokelau,0
+TM,TKM,AS,Turkmenistan,8
+TL,TLS,OC,Timor-Leste,10
+TO,TON,OC,Tonga,25
+TT,TTO,NO,Trinidad and Tobago,30
+TN,TUN,AF,Tunisia,15
+TR,TUR,AS,Turkey,25
+TV,TUV,OC,Tuvalu,
+TW,TWN,AS,Taiwan,20
+TZ,TZA,AF,United Republic of Tanzania,30
+UG,UGA,AF,Uganda,30
+UA,UKR,EU,Ukraine,18
+UM,UMI,OC,United States Minor Outlying Islands,
+UY,URY,SA,Uruguay,25
+US,USA,NO,United States of America,25.768
+UZ,UZB,AS,Uzbekistan,15
+VA,VAT,EU,Holy See,
+VC,VCT,NO,Saint Vincent and the Grenadines,28
+VE,VEN,SA,Venezuela (Bolivarian Republic of),34
+VG,VGB,NO,British Virgin Islands,0
+VI,VIR,NO,United States Virgin Islands,23.1
+VN,VNM,AS,Viet Nam,20
+VU,VUT,OC,Vanuatu,0
+WF,WLF,OC,Wallis and Futuna Islands,0
+WS,WSM,OC,Samoa,27
+XK,XKX,EU,"Kosovo, Republic of",10
+YE,YEM,AS,Yemen,20
+ZA,ZAF,AF,South Africa,27
+ZM,ZMB,AF,Zambia,30
+ZW,ZWE,AF,Zimbabwe,24.72
